@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Most Used Language
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=the-erminal)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=the-terminal)
 
 
 # My Stuffs:-
