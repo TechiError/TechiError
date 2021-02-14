@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ### My Stats
 ![The-Terminal's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammingError&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingError&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/ProgrammingError)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingError&layout=compact&theme=midnight-purple)](https://github.com/ProgrammingError)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ProgrammingError)
 # My Stuffs:-
