@@ -6,8 +6,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python // Telethon // Python Telegram Bot
 - 📫 How to reach me: [Telegram](https://t.me/ProgrammingError)
 
-<img width="350" height="350" src="https://telegra.ph/file/7a6f90d7c40793de2e0cf.jpg" align="right">
-
 ### My Stats
 ![The-Terminal's github stats](https://github-readme-stats.vercel.app/api?username=TechiError&layout=compact&show_icons=true&theme=radical&cache_seconds=1800)
 
