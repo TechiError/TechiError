@@ -25,25 +25,25 @@ Small Info:<br><br>🌱 I’m currently learning.<br>💬 Ask me about Python //
 # My Projects
 ## Community Projects
 
-[Dark Cobra](https://github.com/DARK-COBRA/DARKCOBRA)\
-[Ultroid](https://github.com/TeamUltroid/Ultroid)\
-[DevelopersUserbot](https://github.com/TechiError/DevelopersUserbot)
+- [Dark Cobra](https://github.com/DARK-COBRA/DARKCOBRA)\
+- [Ultroid](https://github.com/TeamUltroid/Ultroid)\
+- [DevelopersUserbot](https://github.com/TechiError/DevelopersUserbot)
 
 ## Personal Projects
 
-[Github Telegram Webhooks Bot](https://github.com/TechiError/gh-webhooks)\
-[PadhoTGBot](https://github.com/TechiError/padhotgbot)\
-[JostAPI](jostapi.notavailable.live)\
-[Birthday](https://github.com/TechiError/Birthday)\
-[TextToSpeech Bot](https://github.com/TechiError/tts)\
-[VCBot](https://github.com/iam-pro/vcbot)\
-[Syllabus](https://github.com/iam-pro/syllabus)\
-[Friday Workflows](https://github.com/iam-pro/friday-wf)\
-[Userge Workflows](https://github.com/TechiError/userge-wf-example)\
-https://iam-pro.github.io \
-[codeanalyst](https://pypi.org/project/codeanalyst/)\
-[ForceSubscribe Bot](https://github.com/TechiError/feck)\
-[Ultroid-Workflows](https://github.com/techierror/ultroid-wf-example)
+- [Github Telegram Webhooks Bot](https://github.com/TechiError/gh-webhooks)\
+- [PadhoTGBot](https://github.com/TechiError/padhotgbot)\
+- [JostAPI](jostapi.notavailable.live)\
+- [Birthday](https://github.com/TechiError/Birthday)\
+- [TextToSpeech Bot](https://github.com/TechiError/tts)\
+- [VCBot](https://github.com/iam-pro/vcbot)\
+- [Syllabus](https://github.com/iam-pro/syllabus)\
+- [Friday Workflows](https://github.com/iam-pro/friday-wf)\
+- [Userge Workflows](https://github.com/TechiError/userge-wf-example)\
+- https://iam-pro.github.io \
+- [codeanalyst](https://pypi.org/project/codeanalyst/)\
+- [ForceSubscribe Bot](https://github.com/TechiError/feck)\
+- [Ultroid-Workflows](https://github.com/techierror/ultroid-wf-example)
 
 # My Stuffs:-
 
