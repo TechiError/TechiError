@@ -38,9 +38,9 @@ Small Info:<br><br>🌱 I’m currently learning.<br>💬 Ask me about Python //
 [VCBot](https://github.com/iam-pro/vcbot)\
 [Syllabus](https://github.com/iam-pro/syllabus)\
 [Friday Workflows](https://github.com/iam-pro/friday-wf)\
-iam-pro.github.io\
+https://iam-pro.github.io\
 [ForceSubscribe Bot](https://github.com/TechiError/feck)\
-[Ultroid-Workflows](https://github.com/techierror/ultroid-wf-example)\
+[Ultroid-Workflows](https://github.com/techierror/ultroid-wf-example)
 
 # My Stuffs:-
 
