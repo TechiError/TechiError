@@ -26,7 +26,8 @@ Small Info:<br><br>🌱 I’m currently learning.<br>💬 Ask me about Python //
 ## Community Projects
 
 [Dark Cobra](https://github.com/DARK-COBRA/DARKCOBRA)\
-[Ultroid](https://github.com/TeamUltroid/Ultroid)
+[Ultroid](https://github.com/TeamUltroid/Ultroid)\
+[DevelopersUserbot](https://github.com/TechiError/DevelopersUserbot)
 
 ## Personal Projects
 
@@ -38,7 +39,9 @@ Small Info:<br><br>🌱 I’m currently learning.<br>💬 Ask me about Python //
 [VCBot](https://github.com/iam-pro/vcbot)\
 [Syllabus](https://github.com/iam-pro/syllabus)\
 [Friday Workflows](https://github.com/iam-pro/friday-wf)\
+[Userge Workflows](https://github.com/TechiError/userge-wf-example)\
 https://iam-pro.github.io \
+[codeanalyst](https://pypi.org/project/codeanalyst/)\
 [ForceSubscribe Bot](https://github.com/TechiError/feck)\
 [Ultroid-Workflows](https://github.com/techierror/ultroid-wf-example)
 
