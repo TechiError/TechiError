@@ -33,8 +33,7 @@ Small Info:<br><br>🌱 I’m currently learning.<br>💬 Ask me about Python //
 
 - [Github Telegram Webhooks Bot](https://github.com/TechiError/gh-webhooks)
 - [PadhoTGBot](https://github.com/TechiError/padhotgbot)
-- [JostAPI](jostapi.notavailable.live)
-- [Birthday](https://github.com/TechiError/Birthday)
+- [JostAPI](jostapi.herokuapp.com)
 - [TextToSpeech Bot](https://github.com/TechiError/tts)
 - [VCBot](https://github.com/iam-pro/vcbot)
 - [Syllabus](https://github.com/iam-pro/syllabus)
