@@ -44,9 +44,11 @@ Small Info:<br><br>🌱 I’m currently learning.<br>💬 Ask me about Python //
 - [codeanalyst](https://pypi.org/project/codeanalyst/)
 - [ForceSubscribe Bot](https://github.com/TechiError/feck)
 - [Ultroid-Workflows](https://github.com/techierror/ultroid-wf-example)
+- [Ray.so API](https://github.com/TechiError/rayso-api)
+- [Gadgets API](https://github.com/TechiError/GadgetsAPI)
 
 # My Stuffs:-
 
-- A Low End Laptop🙂🙂
-- Notepad++
+- A Low End Laptop🙂🙂 with Arch Linux
+- VSCode
 - Telegram  😂😂
